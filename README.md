@@ -1,1 +1,6 @@
-# Altair-4_CanSat_Project
+# Altair-4 CanSat Project #
+Our team has developed a CanSat — a miniature satellite prototype designed to demonstrate the basic principles of space technology in a compact and affordable form. The CanSat is built using an Arduino Nano microcontroller and various sensors to measure temperature, humidity,pressure,altitude and positions in 3D. It collects real-time environmental data during flight and transmits it to a ground station for analysis.
+
+The main goal of our project is to help learners understand how real satellites function in space — including data collection, transmission, and recovery processes — through a simple, hands-on model. The CanSat is lightweight, cost-effective, and easy to launch using small rockets or drones. It also promotes teamwork, innovation, and practical experience in electronics, programming, and aerospace engineering.
+
+Our CanSat serves as an educational tool that bridges the gap between theory and practice, allowing students to explore satellite technology in an engaging way. Through this project, we aim to inspire interest in space science and demonstrate that even small-scale designs can contribute to understanding the vast world of satellite systems.
